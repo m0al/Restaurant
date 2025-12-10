@@ -118,5 +118,5 @@ dotnet publish -c Release
 
 
 <p align="center">
-  <img src="screenshot1.png" width="800">
+  <img src="Screenshot 2025-12-10 at 3.03.41 PM" width="800">
 </p>
