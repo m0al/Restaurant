@@ -114,7 +114,7 @@ dotnet publish -c Release
 
 ⸻
 
-## Screenshots
+### Sample of Welcome Page
 
 
 
