@@ -1,4 +1,4 @@
-# Restaurant Management System
+<h1 align="center">Restaurant Management System</h1>
 
 
 <p align="center">
@@ -117,6 +117,8 @@ dotnet publish -c Release
 ## Screenshots
 
 
+
 <p align="center">
-  <img src="Screenshot 2025-12-10 at 3.03.41 PM" width="800">
+  <img src="imgs/Screenshot 2025-12-10 at 3.03.41 PM.png" width="800">
 </p>
+
