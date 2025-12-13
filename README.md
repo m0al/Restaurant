@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  A complete restaurant management system built using <b>C#</b>, <b>.NET Framework</b>, and <b>Microsoft SQL Server</b>.  
+  A complete restaurant management system built using <b>C#</b>, and <b>Microsoft SQL Server</b>.  
   Designed as a full role-based system for Admins, Managers, Chefs, Reservation Coordinators, and Customers.
 </p>
 
@@ -25,7 +25,7 @@ All roles interact with a **central SQL database**, ensuring clean data structur
 
 ## Technologies Used
 
-- **C# (.NET Framework)**
+- **C#**
 - **Microsoft SQL Server**
 - **Windows Forms (WinForms)**
 - **SMTP / Mailgun API (Password Reset)**
